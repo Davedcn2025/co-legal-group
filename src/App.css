@@ -1,0 +1,30 @@
+/* src/App.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.p-8 {
+  padding: 2rem;
+}
+
+.text-3xl {
+  font-size: 1.875rem;
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+.mt-8 {
+  margin-top: 2rem;
+}
+
+.bg-[#D4AF37] {
+  background-color: #d4af37;
+}
+
+.text-[#0D1B2A] {
+  color: #0d1b2a;
+}
